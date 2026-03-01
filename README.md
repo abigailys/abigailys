@@ -20,5 +20,5 @@ I trained at Northcoders to strengthen my software engineering fundamentals thro
 **Deployment:** Cloudflare, Netlify
 
 ## 📫 Connect
-- LinkedIn: https://www.linkedin.com/in/abigail-lee-ys/
+Thank you for dropping by! If you'd like to connect, here is my LinkedIn: https://www.linkedin.com/in/abigail-lee-ys/ 😄
 
