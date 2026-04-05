@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m an engineer transitioning into software development, motivated by building reliable, well-designed software.
+I am an engineer transitioning into software development, motivated by building reliable, well-designed software.
 
 In my previous engineering roles, I found myself consistently drawn to the software components — analysing data, automating workflows, and structuring systems so they behaved predictably and cleanly. I’m particularly motivated by the logical problem-solving aspect: taking an ambiguous problem, breaking it into clear components, and turning it into maintainable code.
 
