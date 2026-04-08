@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello 👋
 
 I am an engineer transitioning into software development, motivated by building reliable, well-designed software.
 
