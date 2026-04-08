@@ -21,4 +21,3 @@ I trained at Northcoders to strengthen my software engineering fundamentals thro
 
 ## 📫 Connect
 Thank you for dropping by! If you'd like to connect, here is my LinkedIn: https://www.linkedin.com/in/abigail-lee-ys/ 😄
-
